@@ -1,2 +1,2 @@
 # Geospatial Visualization
-Link : 
+Link : https://tabeeshf.github.io/Major-Assignment-2/
